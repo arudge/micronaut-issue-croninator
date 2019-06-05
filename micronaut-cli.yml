@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: croninator
+---
+testFramework: spock
+sourceLanguage: groovy
